@@ -1,28 +1,35 @@
 What is a software program?
+A software program is a program made of a programming launguage or a scripting on.
+It can also be made of multiple languages
 What is high-level language - 3 examples
-What is high low-level languages - 1 example
+C++, C#, Pascal
+What is low-level languages - 1 example
+Machine Language.
 What is an Interpreter in software:
- 
+ An interpreter is the engine that gives you the result of a software program.
 Pick the Python prompt:
-[] >>>
+[x] >>>
 [] <<<
 [] >
 
 What is software IDE? 
-[] Integrated development environment 
+[x] Integrated development environment 
 [] Interpreter Deployment environment
 [] Investigational Device Exempt
 
 What are 2 example of python IDE?
+pyscripter, visual studio code
 
 What is debugging?
+running through your program and making sure that their is no errors.
 
 What are the three kind of software programming errors?
+syntax errors, runtime errors and, semantic errors
 
 What is comment in python?
 
 [] <#
-[] #
+[x] #
 [] //
 
 Exercise:
