@@ -1,0 +1,34 @@
+What is a software program?
+What is high-level language - 3 examples
+What is high low-level languages - 1 example
+What is an Interpreter in software:
+ 
+Pick the Python prompt:
+[] >>>
+[] <<<
+[] >
+
+What is software IDE? 
+[] Integrated development environment 
+[] Interpreter Deployment environment
+[] Investigational Device Exempt
+
+What are 2 example of python IDE?
+
+What is debugging?
+
+What are the three kind of software programming errors?
+
+What is comment in python?
+
+[] <#
+[] #
+[] //
+
+Exercise:
+Write a program in python call "comment.py" that do the following:
+ 1 - Beging with a block comment that explain what the program does and the name of the author
+ 2 - Prints "Hello Antwan" on a line
+ 3 - Then the addtion result of 1 plus 2
+ 
+ 
