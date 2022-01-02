@@ -1,42 +1,46 @@
 2.1 - Values and data types
 
 1 - What is a value?
+A value is a result of a line in a script
 
 2 - What data types or classes?
+strings, integers, float
 
 3 - What function in python to help identify a value a data type?
+type
 
 4 - In python prompt - use the function in question 3 to find the data type or classes of the following value:
 ** Write the type inside the bracket
 
-[] "Hello World"
-[] 2
-[] "5 + 1"
-[] 1.4
-[] 1.6 + 4
-[] "2.1 + 6"
+[str] "Hello World"
+[int] 2
+[str] "5 + 1"
+[float] 1.4
+[float] 1.6 + 4
+[str] "2.1 + 6"
 
 5 - What is a string (str) in python?
+a number or a letter in quotation marks.
 
 6- Which apply to a string(s) below - pick all that applied
-[] Enclosed in single quotes (')
-[] Enclosed double quotes (")
-[] Enclosed in triple single quotes (''')
-[] Enclosed in triple double quotes (""")
+[x] Enclosed in single quotes (')
+[x] Enclosed double quotes (")
+[x] Enclosed in triple single quotes (''')
+[x] Enclosed in triple double quotes (""")
 [] May not be enclosed in quotes
 
 7 - Write program call quotedstring.py to print the quoted sentence below.
 "Wow", Alexa said, "Antwan's bike is nice!"
 
 8 - What large integer below are legal python integer:
-[] 43596
+[x] 43596
 [] 3,5678
-[] 23045
+[x] 23045
 
 9 - From the python prompt enter the expression  6 * 1 - 2, note the value result.
 Now , add parenthesis to the expression 6 * 1 - 2 to change its value from 4 to -6
 What is the expression look like now.
 
 
-
+6*(1-2)
 
