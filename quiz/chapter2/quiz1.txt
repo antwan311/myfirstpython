@@ -4,8 +4,7 @@
 A value is a result of a line in a script
 
 2 - What data types or classes?
-strings, integers, float
-
+a value distinguished in a group
 3 - What function in python to help identify a value a data type?
 type
 
@@ -20,7 +19,7 @@ type
 [str] "2.1 + 6"
 
 5 - What is a string (str) in python?
-a number or a letter in quotation marks.
+a value enclosed in qoutation marks.
 
 6- Which apply to a string(s) below - pick all that applied
 [x] Enclosed in single quotes (')
