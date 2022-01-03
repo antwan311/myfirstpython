@@ -1,5 +1,5 @@
 1 - What is a variable?
-A variable is a piece of information in a sript.
+word that stores information.
 2 - What is assignment statement?
 an assignment statment is the statement you put before you assign a value to a variable
 3 - What is the assignment token in python?
@@ -24,7 +24,7 @@ underscores.
 [x] lambda
 
 7- List 10 python reserve words or keywords
-class, true, false, if,else, while, return, is, elif,import
+class, True, False, if,else, while, return, is, elif,import
 
 8 - What is a statement? Give examples of 3 statements for now.
 a statment is an function or instruction that the computer executes.
