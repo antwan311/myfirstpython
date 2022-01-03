@@ -1,32 +1,33 @@
 1 - What is a variable?
-
+A variable is a piece of information in a sript.
 2 - What is assignment statement?
-
+an assignment statment is the statement you put before you assign a value to a variable
 3 - What is the assignment token in python?
-[] =
+[x] =
 [] ==
 [] equal
 
 4 - Can the value of variable change?
-[] yes
+[x] yes
 [] no
 
 5- What is the only character beside letters and digits that can be used in naming a variable?
 
-
+underscores.
 6 - Pick all the legal variables names below:
 [] $dollar
-[] dollar
+[x] dollar
 [] 311antwan
-[] _dog
-[] my_little_dog
+[x] _dog
+[x] my_little_dog
 [] myDittleDog
-[] lambda
+[x] lambda
 
 7- List 10 python reserve words or keywords
+class, true, false, if,else, while, return, is, elif,import
 
 8 - What is a statement? Give examples of 3 statements for now.
-
+a statment is an function or instruction that the computer executes.
 9 - Write a program call variable.py that will evaluate the expression (x + y + 6 )to 10
 
 
