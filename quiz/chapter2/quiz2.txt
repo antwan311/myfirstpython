@@ -1,0 +1,32 @@
+1 - What is a variable?
+
+2 - What is assignment statement?
+
+3 - What is the assignment token in python?
+[] =
+[] ==
+[] equal
+
+4 - Can the value of variable change?
+[] yes
+[] no
+
+5- What is the only character beside letters and digits that can be used in naming a variable?
+
+
+6 - Pick all the legal variables names below:
+[] $dollar
+[] dollar
+[] 311antwan
+[] _dog
+[] my_little_dog
+[] myDittleDog
+[] lambda
+
+7- List 10 python reserve words or keywords
+
+8 - What is a statement? Give examples of 3 statements for now.
+
+9 - Write a program call variable.py that will evaluate the expression (x + y + 6 )to 10
+
+
