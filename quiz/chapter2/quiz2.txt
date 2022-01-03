@@ -20,14 +20,15 @@ underscores.
 [] 311antwan
 [x] _dog
 [x] my_little_dog
-[] myDittleDog
-[x] lambda
+[x] myDittleDog
+[] lambda
 
 7- List 10 python reserve words or keywords
 class, True, False, if,else, while, return, is, elif,import
 
 8 - What is a statement? Give examples of 3 statements for now.
 a statment is an function or instruction that the computer executes.
+if, else, elif
 9 - Write a program call variable.py that will evaluate the expression (x + y + 6 )to 10
 
 
