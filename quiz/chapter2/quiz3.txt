@@ -1,25 +1,29 @@
 1- What is an Expression?
-
+expressions is a combination of values, variables and, functions.
 2- What happen when an expression is evaluated?
-
+the value or result shows.
 3- What is the difference between operators and operands
-
+An operators is a special token that represents computations an operand is the values an operators use.
 4- List some math operators that you know of?
+division /, addition+, subtraction -, multiplication *.
 
 5- What is the difference between * and ** ?
-
+* is multiplication while ** is exponentation
 6- What is the difference between / and // ?
+/ is division and // is floor division.
 
 7- List the 3 types coverter in python?
-
+int, float, string.
 8- Choose all that are legal?
 [] int ("Antwan")
-[] int (1.5)
-[] float(7)
-[] str("1.5")
+[x] int (1.5)
+[x] float(7)
+[x] str("1.5")
 [] int("2 mangos")
-[] int(5/6)
+[x] int(5/6)
 
 9- Order of operation by precedences from highest to lowest.
-
+1. Parentheses 2. exponents 3. m
 10- Evaluate 2 ** 3 ** 2 and (2 ** 3) ** 2 note the difference. ( if confuse about exponent - see https://www.youtube.com/watch?v=zwNmYDNhRqc)
+the diffirence is that the producto for 2** 3 ** 2 is bigger because it does all of the equations and then it adds them all up
+but (2 ** 3) ** 2 does one at a time so its smaller.
