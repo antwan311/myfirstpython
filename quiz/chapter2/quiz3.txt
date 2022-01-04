@@ -1,0 +1,25 @@
+1- What is an Expression?
+
+2- What happen when an expression is evaluated?
+
+3- What is the difference between operators and operands
+
+4- List some math operators that you know of?
+
+5- What is the difference between * and ** ?
+
+6- What is the difference between / and // ?
+
+7- List the 3 types coverter in python?
+
+8- Choose all that are legal?
+[] int ("Antwan")
+[] int (1.5)
+[] float(7)
+[] str("1.5")
+[] int("2 mangos")
+[] int(5/6)
+
+9- Order of operation by precedences from highest to lowest.
+
+10- Evaluate 2 ** 3 ** 2 and (2 ** 3) ** 2 note the difference. ( if confuse about exponent - see https://www.youtube.com/watch?v=zwNmYDNhRqc)

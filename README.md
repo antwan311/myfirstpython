@@ -15,4 +15,9 @@ git push [alias] [branch] : Transmit local branch commits to the remote reposito
 ```
 
 ### TODO 01/01/22 : Read chapter 1 and chapter 1 quiz and exercise
-### TODO 01/02/22 : Read chapter 1 section 2.1 and do the quiz and exercise. https://github.com/antwan311/myfirstpython/blob/main/quiz/chapter2/quiz1.txt
+
+### TODO 01/02/22 : Read chapter 1 section 2.1 and do the quiz and exercise. https://github.com/antwan311/myfirstpython/blob/main/quiz/chapter2/quiz1.txt 
+
+### TODO 01/03/22 : Read chapter 2 section 2.3 and 2.4 and do the quiz2 and exercise. 
+
+### TODO 01/04/22 : Read chapter 2 section 2.5,2.6,2.7,2.8 and do the quiz3
