@@ -21,3 +21,5 @@ git push [alias] [branch] : Transmit local branch commits to the remote reposito
 ### TODO 01/03/22 : Read chapter 2 section 2.3 and 2.4 and do the quiz2 and exercise. 
 
 ### TODO 01/04/22 : Read chapter 2 section 2.5,2.6,2.7,2.8 and do the quiz3
+
+### TODO 01/05/22 : Read Chapter 2 section 2.8 and 2.9 and do quiz4

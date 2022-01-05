@@ -1,0 +1,14 @@
+Chapter 2 section 2.8 and 2.9
+
+1- What is concatenation?
+
+2- Write a program: 
+	1- use the + operator to print the result of 3 concatenated different string variables
+	2- use the * operator to print the result of a concatenated variable 3 times
+
+3- Write a program:
+	1- Ask to input your name and your age
+	2- convert your age to int
+	3- Display the name and age in the sentence "My name's <name>  and I am <age> years old!".
+
+
